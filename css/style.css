@@ -1,0 +1,26 @@
+
+/*-------------|--common css start--|-------------*/
+*{
+    margin: 0px;
+    padding: 0px;
+    outline: 0px;
+    box-sizing: border-box;
+}
+a,a:hover{
+    display: inline-block;
+    text-decoration: none;
+}
+ul,li,ol{
+    list-style-type: none;
+}
+img{
+    vertical-align: middle;
+}
+h1,h2,h3,h4,h5,h6,p,span{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    overflow-x: hidden;
+}
+/*-------------|--common css end--|-------------*/
